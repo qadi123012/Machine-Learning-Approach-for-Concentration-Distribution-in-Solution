@@ -1,4 +1,4 @@
-# Simultaneous Quantitative Schlieren and PIV for Cu2+ Concentration and Velocity in Copper Electroplating
+# Experimental, Simultaneous Quantitative Schlieren and PIV for Cu2+ Concentration and Velocity in Copper Electroplating
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
